@@ -1,0 +1,48 @@
+# .NET/MVC specific
+obj/
+bin/
+*.suo
+*.user
+*.bak
+*.cache
+*.log
+*.dll
+*.exe
+
+# Visual Studio files
+.vs/
+*.vscode/
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.pdb
+*.log
+*.vspscc
+*.vspx
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.jfm
+*.gpState
+
+# ReSharper
+_ReSharper*/
+
+# Rider
+.idea/
+
+# Others
+*~
+*.swp
+Thumbs.db
+ehthumbs.db
+node_modules/
